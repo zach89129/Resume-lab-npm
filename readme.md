@@ -1,0 +1,1 @@
+This allows user to print out the small resume-like information included in the files. 
